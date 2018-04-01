@@ -4,7 +4,7 @@ title:      Hello World
 subtitle:   April Fool
 date:       2018-04-01
 author:     Etamin
-header-img: img/post-bg-art.jpg
+header-img: img/post-bg-rwd.jpg
 catalog: true
 tags:
     - Hello
