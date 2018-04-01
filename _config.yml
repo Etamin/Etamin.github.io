@@ -97,10 +97,15 @@ friends: [
         title: "简书",
         href: "http://www.jianshu.com"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "iFlytek",
+        href: "http://www.iflytek.com/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
+        title: "南京航空航天大学",
+        href: "http://www.nuaa.edu.cn/"
+    },{
+        title: "Apache",
+        href: "https://www.apache.org/"
+    },
+
+
 ]
