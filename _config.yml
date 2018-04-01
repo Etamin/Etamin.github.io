@@ -12,7 +12,7 @@ github_repo: "https://github.com/etamin/etamin.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "When life gives you lemons, make lemonade."
-sidebar-avatar: img/me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/about-me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
