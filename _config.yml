@@ -1,10 +1,10 @@
 # Site settings
-title: GARE DE STRASBOURG
-SEOTitle: Etamin's Blog | GARE DE STRASBOURG
+title: Scarbrough Fair
+SEOTitle: Etamin's Blog | Scarbrough Fair
 header-img: img/post-bg-desk.jpg
 email: syw12345ht@gmail.com
 description: "雪が解け、そして　雪が降るまで"
-keyword: "GARE DE STRASBOURG, Etamin, Etamin的博客, syw12345jt, Java, Python, Deep Learning"
+keyword: "Scarbrough Fair, Etamin, Etamin的博客, syw12345jt, Java, Python, Deep Learning"
 url: "http://etamin.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/etamin/etamin.github.io.git" # you code repository
