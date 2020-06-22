@@ -1,5 +1,13 @@
 # Project template
 - layout: top-middle
+  name: Automated Speech Scoring with DNN or GMM in Goodness of Pronunciations
+  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    A comparison of DNN and GMM model in Goodness of Pronunciations
+  description: | # this will include new lines to allow paragraphs
+    Description about the work on/with the project
+- layout: top-middle
   name: Project name
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)

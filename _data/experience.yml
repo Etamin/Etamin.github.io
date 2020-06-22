@@ -1,9 +1,18 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: USTC iFlytek
+  link: https://www.iflytek.com/en/
+  job_title: Senior Software Engineer
+  dates: June 2017 - August 2019
+  quote: >
+   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of role
+- layout: left
+  company: China UnionPay
+  link: http://www.unionpayintl.com/en/
+  job_title: Assistant Software Engineer
+  dates: July 2016 - June 2017
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
