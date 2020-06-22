@@ -5,7 +5,7 @@
   job_title: Senior Software Engineer
   dates: June 2017 - August 2019
   quote: >
-   Short description of the company (optional)
+    China's well-known intelligent voice company
   description: | # this will include new lines to allow paragraphs
     Description of role
 - layout: left
@@ -14,6 +14,6 @@
   job_title: Assistant Software Engineer
   dates: July 2016 - June 2017
   quote: >
-   Short description of the company (optional)
+    UnionPay is the largest card payment organization in the world
   description: | # this will include new lines to allow paragraphs
     Description of role
