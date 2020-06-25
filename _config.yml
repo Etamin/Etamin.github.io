@@ -37,7 +37,8 @@ orcid_username: 0000-0002-6314-7515
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Yewei and now I'm a master student of University of Birmingham. I am a programming fan from childhood. My academic research is mainly in the field of <mark>Natural Language Processing</mark>.
-  My common technology stack includes <mark>Python</mark>, <mark>Java</mark>, <mark>JavaScripts</mark> etc.
+  My common technology stack includes <mark>Python</mark>, <mark>Java</mark>, <mark>JavaScripts</mark> etc. 
+  In <mark>NLP</mark>, my focus area is <mark>Speech Recognition</mark> and <mark>Information Extraction</mark>, familiar with <mark>Kaldi</mark> and <mark>nltk</mark>.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
